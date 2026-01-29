@@ -23,17 +23,12 @@ Other solutions extract visuals or index text. Polyvia indexes visuals and reaso
 
 ### 2 ways to access Polyvia
 
-**API & MCP Server**
-For developers building multimodal agents
-- REST API for custom integrations
-- MCP Server for Claude, Cursor, Windsurf
-- Multimodal-Graph-RAG-as-a-Service
-
-**Polyvia Studio**
-For knowledge-work teams
-- Visual search and exploration
-- Query across millions of charts and slides
-- Answers with audit-ready citations
+| **API & MCP Server** | **Polyvia Studio** |
+|:---------------------|:-------------------|
+| *For developers building multimodal agents* | *For knowledge-work teams* |
+| REST API for custom integrations | Visual search and exploration |
+| MCP Server for Claude, Cursor, Windsurf | Query across millions of charts and slides |
+| Multimodal-Graph-RAG-as-a-Service | Answers with audit-ready citations |
 
 **Get early access** → [polyvia.ai/#access](https://polyvia.ai/#access)
 
