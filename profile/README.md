@@ -1,6 +1,6 @@
 # Polyvia AI
 
-**Polyvia = Visual Knowledge Index for Agents & MCPs**
+**Visual Knowledge Index for Agents & MCPs**
 
 Queryable index of facts for visual data.
 
@@ -12,7 +12,7 @@ Other solutions extract visuals or index text. Polyvia indexes visuals and reaso
 
 80% of enterprise knowledge is visual — charts, slides, diagrams, tables. This is "dark data," invisible to current AI systems. Visual extraction tools output disconnected JSONs. Vector databases index text but can't see visuals. Agents hallucinate.
 
-### How Polyvia Works
+### How Polyvia works
 
 **Polyvia Engine** = VLM Extraction + Graph of Facts + Agentic Visual Reasoning
 
@@ -21,18 +21,21 @@ Other solutions extract visuals or index text. Polyvia indexes visuals and reaso
 - **Cross-Document Agentic Reasoning** — Query across 10,000+ documents
 - **Visual Citations** — Every answer traced to source, audit-ready
 
-### 2 ways to Access Polyvia
+### 2 ways to access Polyvia
 
-| API & MCP Server | Polyvia Studio |
-|------------------|----------------|
-| For developers building multimodal agents | For knowledge-work teams |
-| REST API for custom integrations | Visual search and exploration |
-| MCP Server for Claude, Cursor, Windsurf | Query across millions of charts and slides |
-| Multimodal-Graph-RAG-as-a-Service | Answers with audit-ready citations |
+**API & MCP Server**
+For developers building multimodal agents
+- REST API for custom integrations
+- MCP Server for Claude, Cursor, Windsurf
+- Multimodal-Graph-RAG-as-a-Service
 
----
+**Polyvia Studio**
+For knowledge-work teams
+- Visual search and exploration
+- Query across millions of charts and slides
+- Answers with audit-ready citations
 
-**Get early access to Polyvia** → [polyvia.ai/#access](https://polyvia.ai/#access)
+**Get early access** → [polyvia.ai/#access](https://polyvia.ai/#access)
 
 ---
 
