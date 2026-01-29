@@ -23,9 +23,8 @@ Other solutions extract visuals or index text. Polyvia indexes visuals and reaso
 
 ### 2 ways to access Polyvia
 
-| **API & MCP Server** | **Polyvia Studio** |
+| **API & MCP Server**<br>*For developers building multimodal agents* | **Polyvia Studio**<br>*For knowledge-work teams* |
 |:---------------------|:-------------------|
-| *For developers building multimodal agents* | *For knowledge-work teams* |
 | REST API for custom integrations | Visual search and exploration |
 | MCP Server for Claude, Cursor, Windsurf | Query across millions of charts and slides |
 | Multimodal-Graph-RAG-as-a-Service | Answers with audit-ready citations |
