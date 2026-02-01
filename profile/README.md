@@ -1,36 +1,26 @@
 # Polyvia AI
 
-**Visual Knowledge Index for Agents & MCPs**
+Polyvia is the first Visual Knowledge Index - for Agents & MCPs. Queryable index of facts for visual data.
 
-Queryable index of facts for visual data.
+Infrastructure layer for visual search and reasoning. Extract, index, and reason over charts, slides, and diagrams at scale.
 
----
+## What we do
 
-Other solutions extract visuals or index text. Polyvia indexes visuals and reasons over them — by connecting facts across the multimodal corpus into a single source of truth.
+**Polyvia Engine** turns scattered visuals into a queryable index of facts:
+- VLM-OCR extraction from any document
+- Ontology graph connecting facts across documents
+- Agentic visual reasoning with citations
 
-### The Problem
+## Our products
 
-80% of enterprise knowledge is visual — charts, slides, diagrams, tables. This is "dark data," invisible to current AI systems. Visual extraction tools output disconnected JSONs. Vector databases index text but can't see visuals. Agents hallucinate.
+- **[Polyvia API](https://docs.polyvia.ai/products/api)** — REST API for developers
+- **[Polyvia MCP Server](https://docs.polyvia.ai/products/mcp)** — for Claude, Cursor, Windsurf
+- **[Polyvia Studio](https://app.polyvia.ai)** — web app for knowledge-work teams
 
-### How Polyvia works
+## Open source
 
-**Polyvia Engine** = VLM Extraction + Graph of Facts + Agentic Visual Reasoning
+- **[docs](https://github.com/polyvia-ai/docs)** — documentation
 
-- **VLM-OCR Extraction & Charts-to-Data** — Visual logic extraction from any document
-- **One Source of Truth** — Connected knowledge graph with fact disambiguation
-- **Cross-Document Agentic Reasoning** — Query across 10,000+ documents
-- **Visual Citations** — Every answer traced to source, audit-ready
+## Links
 
-### 2 ways to access Polyvia
-
-| **API & MCP Server**<br>*For developers building multimodal agents* | **Polyvia Studio**<br>*For knowledge-work teams* |
-|:---------------------|:-------------------|
-| REST API for custom integrations | Visual search and exploration |
-| MCP Server for Claude, Cursor, Windsurf | Query across millions of charts and slides |
-| Multimodal-Graph-RAG-as-a-Service | Answers with audit-ready citations |
-
-**Get early access** → [polyvia.ai/#access](https://polyvia.ai/#access)
-
----
-
-[Website](https://polyvia.ai) ・ [Documentation](https://docs.polyvia.ai) ・ [LinkedIn](https://linkedin.com/company/polyvia-ai) ・ [X](https://x.com/polyvia_ai)
+[polyvia.ai](https://polyvia.ai) ・ [docs](https://docs.polyvia.ai) ・ [app](https://app.polyvia.ai) ・ [blog](https://polyvia.ai/blog) ・ [request access](https://polyvia.ai/#access)
