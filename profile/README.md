@@ -17,10 +17,6 @@ Infrastructure layer for visual search and reasoning. Extract, index, and reason
 - **[Polyvia MCP Server](https://docs.polyvia.ai/products/mcp)** — for Claude, Cursor, Windsurf
 - **[Polyvia Studio](https://app.polyvia.ai)** — web app for knowledge-work teams
 
-## Open source
-
-- **[docs](https://github.com/polyvia-ai/docs)** — documentation
-
 ## Links
 
 [polyvia.ai](https://polyvia.ai) ・ [docs](https://docs.polyvia.ai) ・ [app](https://app.polyvia.ai) ・ [blog](https://polyvia.ai/blog) ・ [request access](https://polyvia.ai/#access)
