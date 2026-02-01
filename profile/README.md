@@ -19,4 +19,4 @@ Infrastructure layer for visual search and reasoning. Extract, index, and reason
 
 ## Links
 
-[polyvia.ai](https://polyvia.ai) ・ [docs](https://docs.polyvia.ai) ・ [app](https://app.polyvia.ai) ・ [blog](https://polyvia.ai/blog) ・ [request access](https://polyvia.ai/#access)
+[polyvia.ai](https://polyvia.ai) ・ [docs](https://docs.polyvia.ai) ・ [app](https://app.polyvia.ai) ・ [blog](https://polyvia.ai/blog) ・ [github repo](https://github.com/polyvia-ai/docs) ・ [request access](https://polyvia.ai/#access)
