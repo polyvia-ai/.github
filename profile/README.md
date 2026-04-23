@@ -1,6 +1,6 @@
 # Polyvia AI
 
-Polyvia is the first Visual Knowledge Index - for Agents & MCPs. Queryable index of facts for visual data.
+Polyvia is the Multimodal Retrieval API for Agents. Queryable index of facts for visual data.
 
 Infrastructure layer for visual search and reasoning. Extract, index, and reason over charts, slides, and diagrams at scale.
 
