@@ -1,31 +1,53 @@
+<div align="center">
+
 # Polyvia AI
 
-Polyvia is the Multimodal Retrieval API for Agents. Queryable index of facts for visual data.
+**Multimodal Retrieval API for AI Agents**
 
-Infrastructure layer for visual search and reasoning. Extract, index, and reason over charts, slides, and diagrams at scale.
+Turn scattered visual documents into a queryable knowledge base your agents can reason over —<br/>
+charts, slides, PDFs, and financial reports extracted, indexed, and cited at scale.
 
-## What we do
+[![PyPI](https://img.shields.io/pypi/v/polyvia?color=6366f1&label=pip+install+polyvia&logo=python&logoColor=white)](https://pypi.org/project/polyvia)
+[![npm](https://img.shields.io/npm/v/polyvia?color=6366f1&label=npm+install+polyvia&logo=npm&logoColor=white)](https://www.npmjs.com/package/polyvia)
+[![Docs](https://img.shields.io/badge/docs-docs.polyvia.ai-6366f1)](https://docs.polyvia.ai)
+[![License: MIT](https://img.shields.io/badge/license-MIT-6366f1)](https://opensource.org/licenses/MIT)
 
-**Polyvia Engine** turns scattered visuals into a queryable index of facts:
-- VLM-OCR extraction from any document
-- Ontology graph connecting facts across documents
-- Agentic visual reasoning with citations
+</div>
 
-## Our products
+---
 
-- **[Polyvia API](https://docs.polyvia.ai/products/api)** — REST API for developers
-- **[Polyvia MCP Server](https://docs.polyvia.ai/products/mcp)** — for Claude, Cursor, Windsurf and other AI clients
-- **[Polyvia Studio](https://app.polyvia.ai)** — web app for knowledge-work teams
+### How it works
 
-## Open source
+🔍 **Extract** — VLM-OCR pulls structured facts from charts, tables, slides, and diagrams  
+🕸️ **Index** — Ontology graph connects facts across documents by entity, metric, and time  
+💬 **Query** — Natural-language questions return cited answers traceable to source and page
 
-| Repo | Description |
+---
+
+### Open source
+
+|  | Repo | |
+|---|---|---|
+| 🐍 | [polyvia-sdk-python](https://github.com/polyvia-ai/polyvia-sdk-python) | Official Python SDK |
+| 📦 | [polyvia-sdk-typescript](https://github.com/polyvia-ai/polyvia-sdk-typescript) | Official TypeScript / JavaScript SDK |
+| 🤖 | [skills](https://github.com/polyvia-ai/skills) | Agent skills for Claude Code, Cursor, and other AI clients |
+| 📖 | [docs](https://github.com/polyvia-ai/docs) | Public documentation source |
+
+---
+
+### Products
+
+| | |
 |---|---|
-| [polyvia-sdk-python](https://github.com/polyvia-ai/polyvia-sdk-python) | Official Python SDK — `pip install polyvia` |
-| [polyvia-sdk-typescript](https://github.com/polyvia-ai/polyvia-sdk-typescript) | Official TypeScript/JS SDK — `npm install polyvia` |
-| [skills](https://github.com/polyvia-ai/skills) | Agent skills for Claude Code, Cursor, and other AI clients |
-| [docs](https://github.com/polyvia-ai/docs) | Public documentation source |
+| [**Polyvia API**](https://docs.polyvia.ai/products/api) | REST API — ingest documents, manage groups, query with natural language |
+| [**MCP Server**](https://docs.polyvia.ai/products/mcp) | Hosted MCP at `app.polyvia.ai/mcp` — connect any MCP-compatible AI client in one line |
+| [**Agent Skills**](https://docs.polyvia.ai/products/skills) | Drop-in skills for agentic coding environments — `npx skills add polyvia-ai/skills` |
+| [**Polyvia Studio**](https://app.polyvia.ai) | No-code web app for uploading documents and querying your knowledge base |
 
-## Links
+---
 
-[polyvia.ai](https://polyvia.ai) ・ [docs](https://docs.polyvia.ai) ・ [app](https://app.polyvia.ai) ・ [blog](https://polyvia.ai/blog) ・ [request access](https://polyvia.ai/#access)
+<div align="center">
+
+[polyvia.ai](https://polyvia.ai) · [docs](https://docs.polyvia.ai) · [app](https://app.polyvia.ai) · [blog](https://polyvia.ai/blog) · [request access](https://polyvia.ai/#access)
+
+</div>
