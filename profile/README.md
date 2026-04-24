@@ -7,10 +7,10 @@
 Turn scattered visual documents into a queryable knowledge base your agents can reason over —<br/>
 charts, slides, PDFs, and financial reports extracted, indexed, and cited at scale.
 
-[![PyPI](https://img.shields.io/pypi/v/polyvia?color=6366f1&label=pip+install+polyvia&logo=python&logoColor=white)](https://pypi.org/project/polyvia)
-[![npm](https://img.shields.io/npm/v/polyvia?color=6366f1&label=npm+install+polyvia&logo=npm&logoColor=white)](https://www.npmjs.com/package/polyvia)
-[![Docs](https://img.shields.io/badge/docs-docs.polyvia.ai-6366f1)](https://docs.polyvia.ai)
-[![License: MIT](https://img.shields.io/badge/license-MIT-6366f1)](https://opensource.org/licenses/MIT)
+[![PyPI](https://img.shields.io/pypi/v/polyvia?style=flat-square&color=6366f1&labelColor=3730a3&label=pip+install+polyvia&logo=python&logoColor=white)](https://pypi.org/project/polyvia)
+[![npm](https://img.shields.io/npm/v/polyvia?style=flat-square&color=6366f1&labelColor=3730a3&label=npm+install+polyvia&logo=npm&logoColor=white)](https://www.npmjs.com/package/polyvia)
+[![Docs](https://img.shields.io/badge/docs-docs.polyvia.ai-6366f1?style=flat-square&labelColor=3730a3)](https://docs.polyvia.ai)
+[![License: MIT](https://img.shields.io/badge/license-MIT-6366f1?style=flat-square&labelColor=3730a3)](https://opensource.org/licenses/MIT)
 
 </div>
 
