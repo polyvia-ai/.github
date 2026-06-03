@@ -2,7 +2,7 @@
 
 # Polyvia AI
 
-**Multimodal Retrieval API for AI Agents**
+**Multimodal document intelligence at scale for AI agents**
 
 Turn scattered visual documents into a queryable knowledge base your agents can reason over —<br/>
 charts, slides, PDFs, and financial reports extracted, indexed, and cited at scale.
