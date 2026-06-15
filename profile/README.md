@@ -14,7 +14,7 @@ We build enterprise agents for large-scale retrieval, research and automation ov
 </div>
 
 ---
-### 👉 Start here
+### 👉 Start here (main repo)
 
 **[github.com/polyvia-ai/polyvia](https://github.com/polyvia-ai/polyvia)** — overview, quickstart, examples, and the launch. Everything links from there.
 
