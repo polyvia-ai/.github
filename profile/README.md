@@ -20,8 +20,8 @@ We build enterprise agents for large-scale retrieval, research and automation ov
 
 ### Releases
 
-Available now: **Polyvia-1.0: Polyvia API** - Multimodal Document Retrieval API, for developers of AI agents. 
-- Coming soon: **Polyvia-1.1: Polyvia Platform** - Research &
+Available now: **Polyvia API** - Multimodal Document Retrieval API, for developers of AI agents. 
+- Coming soon: **Polyvia Platform** - Research &
 Automation Agent over 100K+ multimodal docs, for knowledge workers in enterprises.
 
 
